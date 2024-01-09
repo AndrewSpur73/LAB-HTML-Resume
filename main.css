@@ -1,3 +1,28 @@
 body {
   background-color: burlywood;
 }
+
+#Elite {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 100;
+  font-style: italic;
+  color: hotpink;
+}
+
+#Pulmonology {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 300;
+  font-style: oblique;
+  color: steelblue;
+}
+
+#Pediatrics {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: 500;
+  font-style: inherit;
+  color: orange;
+}
+
+h1 {
+  color: darkolivegreen;
+}
